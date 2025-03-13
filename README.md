@@ -1,2 +1,2 @@
 # Absolute-Kombat-2.0
-Report bugs and drop suggestions for the modpack
+Report bugs, ask questions and drop suggestions for the modpack
