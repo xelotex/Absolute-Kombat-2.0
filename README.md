@@ -11,3 +11,5 @@ Or you can also help me by giving me the following feedback:
 4. Do enemies feel challenging, without being frustrating? Do they have any abilities or mechanics that feel unfair? How does the enemy buffs after entering the Nether/End feel? too easy? too hard?
 
 5. How do you feel about the inventory, is the inventorio mod easy to use and configure?
+
+6. Any parts about your playthrough that you found to be the most fun or frustrating?
